@@ -7,5 +7,6 @@ public class Main {
         float v1 = scn.nextFloat();
         v1 = (int)(v1 * 1.6f * 100) / 100f;
         System.out.println(v1);
+        //addsd
     }
 }
